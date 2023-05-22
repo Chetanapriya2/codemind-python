@@ -7,4 +7,3 @@ if a<180:
     print(a)
 else:
     print(360-a)
-        
