@@ -7,4 +7,5 @@ for i in a:
 if(count<=2):
     print("YES")
 else:
-   print("NO") 
+    print("NO")
+    
