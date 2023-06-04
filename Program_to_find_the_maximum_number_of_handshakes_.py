@@ -1,5 +1,3 @@
 n=int(input())
-s=0
-for i in range (n):
-    s+=i
-print(s)
+hs=((n-1)*n//2)
+print(hs)
